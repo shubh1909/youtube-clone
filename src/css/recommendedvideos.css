@@ -1,0 +1,15 @@
+.recommendedVideos {
+  flex: 0.8;
+  background-color: #f9f9ff;
+  padding: 40px 20px;
+  padding-bottom: 0;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+.recommendedVideos__videos {
+  display: flex;
+  flex-wrap: wrap;
+}
